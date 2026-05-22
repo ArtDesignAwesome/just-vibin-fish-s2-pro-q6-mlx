@@ -26,6 +26,6 @@ Just Vibin' does not sell your scripts, recordings, or generated audio. App-owne
 
 ## Contact
 
-For privacy or support questions, contact:
+For privacy or support questions, use the public support tracker:
 
-support@justvibin.app
+https://github.com/ArtDesignAwesome/just-vibin-fish-s2-pro-q6-mlx/issues
