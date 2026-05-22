@@ -4,11 +4,11 @@ Just Vibin' is a local AI voice scene studio for iPhone.
 
 ## Getting Help
 
-If you need help with setup, model downloads, voice recording, rendering, purchases, or ads, contact the developer at:
+For setup, model downloads, voice recording, rendering, purchases, ads, or bug reports, use the public support tracker:
 
-support@justvibin.app
+https://github.com/ArtDesignAwesome/just-vibin-fish-s2-pro-q6-mlx/issues
 
-If that address is not yet reachable, use the App Store review/contact channel for Just Vibin' while the support mailbox is being provisioned.
+When reporting a problem, include your iPhone model, iOS version, selected engine, and any copyable diagnostic report from the app settings.
 
 ## Common Notes
 
